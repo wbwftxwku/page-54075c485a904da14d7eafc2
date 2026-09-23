@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6254908e4ca1f7f4d3152acc",
+  "owner": "wbwftxwku",
+  "repo": "page-54075c485a904da14d7eafc2",
+  "title": "FlyBit机场(FlyBit)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "54075c485a904da14d7eafc2",
+      "a": "FlyBit机场(FlyBit)",
+      "b": "稳定全球clash加速器",
+      "entity": "FlyBit机场(FlyBit)",
+      "brand": "FlyBit机场(FlyBit)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d33a06eeaddaa28b238cac100e3ff31e9140b8ea8da9163989d9f6b58900677f",
+      "content": {
+        "primary_entity": "FlyBit机场(FlyBit)",
+        "keyword1": "FlyBit机场(FlyBit)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，桌面端与移动端各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端适配选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅配置即可连接使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别对应 3 台、5 台和 20 台设备在线需求。基础版每月 100GB 流量适合个人轻量使用，旗舰版每月 300GB 并带有 IPLC 专线游戏加速优化，团队版每月 1000GB 支持企业定制路由。月付与年付两种周期可选，年付方案在价格上更为划算，适合长期稳定使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路质量三个角度梳理套餐选择逻辑。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "按年付可节省一笔开支，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "订阅周期选择",
+          "AI_FEATURE_TITLE_3": "线路与加速优化",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的过程。",
+          "AI_GUIDE_TITLE": "配置使用步骤",
+          "AI_HERO_INTRO": "FlyBit机场提供基础版、旗舰版和团队版三档订阅方案，覆盖个人轻量使用到多设备团队协作场景。月付与年付灵活可选，订阅后按照对应客户端的配置说明导入即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖多设备场景",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "年付方案价格更划算",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线加速",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和线路配置上逐级提升，可按实际用量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和需要同时在线的设备数量，对比基础版、旗舰版和团队版的具体配置。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备数量与线路支持情况，确认自己的客户端类型和系统版本是否匹配。",
+          "AI_STEP_TEXT_3": "依照对应客户端的配置文档导入订阅信息，保存后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "FlyBit 套餐与客户端",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐选择。",
+          "AI_FAQ_QUESTION_1": "FlyBit机场三档套餐主要差别在哪里？",
+          "AI_FAQ_ANSWER_1": "差别集中在月流量、同时在线设备数与节点类型。基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，并含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_2": "如何判断自己适合哪档套餐？",
+          "AI_FAQ_ANSWER_2": "先统计常用设备数量和每月流量消耗。三台以内、流量需求较低选基础版；有游戏加速或多设备流媒体需求选旗舰版；设备多、流量消耗大或需要定制路由选团队版。",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟和稳定性有要求的在线游戏、实时协作等场景，同时支持全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_4": "团队版支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_4": "团队版支持 20 台设备同时在线，每月提供 1000GB 极速流量，并包含 VIP 专属高带宽节点与企业定制路由，适合小型团队统一使用。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_5": "在手机或电脑上安装适合当前系统的客户端，打开客户端后依照对应文档导入订阅链接，再选择节点即可使用。不同客户端的导入方式略有差异，以客户端文档说明为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ark-qr6el54e.com",
+    "host": "xn--ark-qr6el54e.com"
+  },
+  "file_hashes": {
+    "index.html": "0d6a19edccbfb7f4c9941fd74a6def9e6667b351f3abc7e3dc8c6c01dd44dc33",
+    "sitemap.xml": "e57389d00eaed2157f8dbcf8cb205e405812e8b915caba9f3f104107c452b759",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3c068fcbeb4a7924d0583e78965f8d7ee7894d143784b333616f2ca7182c80c8",
+    "robots.txt": "cee11c75f8d76b9b40b3e271b86f26ce49bf014732cb0e6a8ff2a143ae8f3499",
+    "48e549e4e78438ace94e5f5699fb23c4.txt": "d2cc29abd4afe1b9a0a38ca1656490ef857df2f23bbf9d39a13a0fc2e9d597d5"
+  },
+  "revision": "22708ade041726f9bd8c06f9edbdbc6262a89942cd57a608e72ceb12f014a795"
+}
